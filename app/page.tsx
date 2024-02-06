@@ -4,7 +4,7 @@ export default function Home() {
       <div>
         <p>Gday Rosy,</p>
         <p>Lets make this site a little less shit over the next week or two</p>
-        <p>Don't be lazy</p>
+        <p>Dont be lazy</p>
         <p>Kind Regards,</p>
         <p>Asim</p>
       </div>
